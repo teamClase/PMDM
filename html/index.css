@@ -1,0 +1,14 @@
+#myForm{
+padding-top: 15%;
+    margin: auto;
+    width: 250px;
+}
+#add{
+    justify-content: center;
+    display: flex;
+}
+#print{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row-reverse;    
+}
